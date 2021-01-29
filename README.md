@@ -19,4 +19,14 @@ Le troisième TP était divisé en 3 sous parties. Le premier, nous a appris à 
 > Ce fut vraiment une expérience compliqué du fait d'une mauvaise indication du format de **LampStack**. 
 
 Après avoir réussi à installer notre VM, nous avons étudier les protocoles FTP, SSH et rsync dans la seconde partie. 
-La dernière partie nous a appris à nous servir de Cron qui as appris à programmer 
+
+La dernière partie nous a appris à nous servir de Cron. Cron sert à réaliser des porgrammes dans notre VM.
+
+### Dernier TP
+Le dernier TP était sur **Kodi**. **Kodi** est un lecteur multimédia libre. 
+
+> Ce TP avait pour but de développer notre **autonomie**. 
+
+Avec Théo, nous avons appris à paramétrer Kodi et à sauvegarder notre bibliothèque. Pour terminer, nous nous sommes inscrits sur The Movie Database qui est une database de films et de séries.
+
+Le module M1101 est à présent terminé, je peux donc cloturer ce fichier :)
