@@ -5,13 +5,67 @@ Bonjour ! Je suis Maël Gibelot et je suis étudiant à l'IUT Gaston Berger d'Ai
 
 ## Les TD
 
+### Premier TD
+
+Le premier TD consistait à apprendre le **vocabulaire** de base de l'informatique. Nous avons ensuite vu le démarrage d'un ordinateur ainsi que le fonctionnement de linux.
+
+Nous avons donc appris à nous servir du **terminal** et à utiliser les **commandes** de base de linux tel que : cat, mkdir, touch,... 
+
+### Deuxième TD
+
+Dans ce deuxième TD, nous avons découverts l'univers des **fichiers** linux. Nous avons appris à **créer** et **éditer** des fichiers à l'aide uniquement du terminal.
+
+Nous avons ensuite vu les caractères *ASCII*, les caractère spéciaux ainsi que la compression et décompression de fichiers.
+
+Afin de terminer, nous avons vu les droits des **utilisateurs** ainsi que l'utilisation entre autre de la commande chmod.
+
+### Troisième TD
+
+Durant ce TD, seul l'utilisation du **clavier** était toléré. 
+
+Nous avons découvert les alias ainsi que l'existence des fichiers tels que .bash_profile ou encore .bashrc. 
+
+Nous avons d'ailleurs **édité** ce dernier afin de **personnaliser** notre terminal.
+
+Nous avons aussi vu les processus, les redirections approfondies ainsi que la recherche de texte dans un fichier.
+
+### Quatrième TD
+
+Durant ce TD, nous avons commencés à **créer** des scripts shell.
+
+Après avoir vu les **conventions** et la mise en forme des scripts, nous avons mis nos connaissances en pratique.
+
+Afin de terminer ce TD, nous avons vu les boucles et mis en place notre **premier** script.
+
+### Cinquième TD
+
+Dans ce TD, nous avons appris à nous servir de **GITHUB**.
+
+Nous nous sommes inscrits sur GITHUB puis nous avons téléchargés et configurés Git It.
+
+### Sixième TD
+
+Dans cet avant dernier TP, nous avons étudiés les formats d'images, la conversion en binaire, héxadécimal ainsi que les disques durs.
+
+### Septième et dernier TD
+
+Ce TD est composé de plusieurs exercices visant à nous servir de toutes les connaissances acquises jusqu'à présent.
+
 ## Les TP
 
 ### Premier TP
-Le premier TP nous a demandés de créer une page Wiki sur un site d'hébergement de Wiki public. Nous avons donc, Théo DESHORS et moi, décidés de créer une page sur *l'attestation de déplacement*. Elle est [disponible sur ce lien](https://lattestation-de-deplacement.fandom.com/fr/wiki/Histoire).
+Le premier TP nous a demandés de créer une page Wiki sur un site d'hébergement de Wiki public. 
+
+Nous avons donc, Théo DESHORS et moi, décidés de créer une page sur *l'attestation de déplacement*. 
+
+Elle est [disponible sur ce lien](https://lattestation-de-deplacement.fandom.com/fr/wiki/Histoire).
 
 ### Second TP
-Le second TP était constitué d'un exercice provenant de la formation en ligne gratuite du **MIT**. Le MIT propose des cours sur des choses qu'ils condsidèrent comme important mais que l'on apprend pas dans les cours classiques : "*The Missing Semester of Your CS Education*". Nous avons donc, à travers ce TP, découvert le principe de l'entropie ainsi que la manière de s'en servir.
+Le second TP était constitué d'un exercice provenant de la formation en ligne gratuite du **MIT**. 
+
+Le MIT propose des cours sur des choses qu'ils condsidèrent comme important mais que l'on apprend pas dans les cours classiques : "*The Missing Semester of Your CS Education*". 
+
+Nous avons donc, à travers ce TP, découvert le principe de l'entropie ainsi que la manière de s'en servir.
 
 ### Troisième TP
 Le troisième TP était divisé en 3 sous parties. Le premier, nous a appris à installer une machine virtuelle. 
