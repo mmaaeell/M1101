@@ -15,6 +15,8 @@ Le second TP était constitué d'un exercice provenant de la formation en ligne 
 
 ### Troisième TP
 Le troisième TP était divisé en 3 sous parties. Le premier, nous a appris à installer une machine virtuelle. 
+
 > Ce fut vraiment une expérience compliqué du fait d'une mauvaise indication du format de **LampStack**. 
+
 Après avoir réussi à installer notre VM, nous avons étudier les protocoles FTP, SSH et rsync dans la seconde partie. 
 La dernière partie nous a appris à nous servir de Cron qui as appris à programmer 
